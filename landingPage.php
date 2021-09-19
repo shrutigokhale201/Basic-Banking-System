@@ -9,7 +9,7 @@
   <title>Transaction Bank</title>
 </head>
 
-<body background="new.png" class="bg">
+<body background="photo.png" class="bg">
   <!-- Navbar -->
   <?php include 'navbar.php' ?>
 
