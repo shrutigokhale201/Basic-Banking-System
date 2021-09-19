@@ -17,3 +17,4 @@ The following functionalities are provided by the web application: </br>
 1. View all customers
 1. Transfer Money
 1. View Transaction History
+Video link: https://www.linkedin.com/posts/activity-6845419949184446464-R6AD
