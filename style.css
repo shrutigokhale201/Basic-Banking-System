@@ -1,0 +1,27 @@
+a {
+    text-decoration: none;
+    color: rgb(237, 244, 245);
+}
+
+a:hover {
+    color:rgb(187, 145, 145);
+    text-decoration: none;
+}
+
+body, html {
+    height: 100%;  
+    margin: 0;
+  } 
+  
+  .bg {
+    /* The image used */
+    background-image: url("photo.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
