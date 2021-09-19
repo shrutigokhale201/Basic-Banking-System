@@ -9,7 +9,7 @@
     <title>transfer</title>
 </head>
 
-<body background="new.png" class="bg">
+<body background="photo.jpg" class="bg">
     <?php
     include 'navbar.php';
     include 'dbconnect.php';
