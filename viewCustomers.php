@@ -10,7 +10,7 @@
   <title>View Customers</title>
 </head>
 
-<body background="new.png" class="bg">
+<body background="photo.jpg" class="bg">
   <!-- Connection to database -->
   <?php
   include 'dbconnect.php';
