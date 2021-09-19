@@ -8,7 +8,7 @@
     <title>History</title>
 </head>
 
-<body background="photo.png" class="bg">
+<body background="photo.jpg" class="bg">
     <!-- Connection to database -->
     <?php
     include 'dbconnect.php';
