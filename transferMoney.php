@@ -8,7 +8,7 @@
     <title>Transfer Money</title>
 </head>
 
-<body background="new.png" class="bg">
+<body background="photo.jpg" class="bg">
 
     <!-- Navbar -->
     <?php include 'navbar.php' ?>
